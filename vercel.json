@@ -1,0 +1,14 @@
+{
+    "headers": [
+      {
+        "source": "/main.ts",
+        "headers": [
+          {
+            "key": "Content-Type",
+            "value": "application/javascript"
+          }
+        ]
+      }
+    ]
+  }
+  
