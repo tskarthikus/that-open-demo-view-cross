@@ -1,7 +1,7 @@
 {
     "headers": [
       {
-        "source": "/main.ts",
+        "source": "/worker.mjs",
         "headers": [
           {
             "key": "Content-Type",
