@@ -1,6 +1,15 @@
 {
     "headers": [
       {
+        "source": "/(.*).frag",
+        "headers": [
+          {
+            "key": "Content-Type",
+            "value": "application/octet-stream"
+          }
+        ]
+      },
+      {
         "source": "/worker.mjs",
         "headers": [
           {
@@ -11,4 +20,3 @@
       }
     ]
   }
-  
